@@ -1,4 +1,4 @@
-# Holaa 👩🏻‍💻
+# Hello World 👩🏻‍💻
 I'm a Full-Stack Software Engineer focused on Web3 applications.<br>I build user-friendly interfaces with React and Next.js, design backends with Node.js, and write Solidity smart contracts that live on-chain.<br>I enjoy turning ideas into real products, shipping clean code, and learning something new every day ✨
 
 
